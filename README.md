@@ -1,10 +1,10 @@
 Hi there 👋
 I'm Esha Agrawal, a Computer Science Engineering student at BML Munjal University with a passion for technology and innovation. Here's a bit about me:
 - 🔭 I’m currently working on:
-  	- Creating a savvy Question Answer Bot with Generative AI.
+  	- Creating a savvy Question Answering Bot with Generative AI.
   	- Elevating my Full-Stack skills with Django for web mastery.
 - 🌱 I’m currently learning:
-  	- Advanced machine learning algorithms and their applications in real-world scenarios.
+  	- Gen AI and their applications in real-world scenarios.
   	- Exploring the potential of TensorFlow and deep learning models.
 - 👯 I’m looking to collaborate on:
   	- Open-source projects related to Artificial Intelligence, Machine Learning, Web Development and Data Analysis.
